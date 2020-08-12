@@ -33,8 +33,6 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 [website]: https://buffercode.in
 [twitter]: https://twitter.com/KumarVpnkumar
 [linkedin]: https://www.linkedin.com/in/vipinkumar08/

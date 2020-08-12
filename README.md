@@ -29,6 +29,10 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
+
 
 <br />
 <br />
@@ -38,15 +42,18 @@
 [linkedin]: https://www.linkedin.com/in/vipinkumar08/
 [instagram]: https://www.instagram.com/vipinkumar18/
 [aboutme]: https://about.me/vipin_kumar/
-[python]: #
-[ruby]: #
-[react]: #
-[vs-code]: #
-[javscript]: #
-[graphql]: #
-[nodejs]: #
-[postgresql]: #
-[mysql]: #
-[mongodb]: #
-[git]: #
-[github]: #
+[python]: https://www.python.org/
+[ruby]: https://www.ruby-lang.org/en/
+[react]: https://reactjs.org/
+[vs-code]: https://code.visualstudio.com/
+[javscript]: https://www.javascript.com/
+[graphql]: https://graphql.org/
+[nodejs]: https://nodejs.org/en/
+[postgresql]: https://www.postgresql.org/
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[docker]: https://www.docker.com/
+[aws]: https://aws.amazon.com/
+[tensorflow] : https://www.tensorflow.org/

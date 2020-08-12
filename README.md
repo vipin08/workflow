@@ -1,7 +1,7 @@
-### Hi there, I'm Vipin - [vipin][website] 👋
+### Hi there, I'm Vipin - [vipin][aboutme] 👋
 
 ## I'm a Developer and Human!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [VS Code][aboutme]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to parties, movies and outdoor activities.
@@ -39,6 +39,7 @@
 [twitter]: https://twitter.com/KumarVpnkumar
 [linkedin]: https://www.linkedin.com/in/vipinkumar08/
 [instagram]: https://www.instagram.com/vipinkumar18/
+[aboutme]: https://about.me/vipin_kumar/
 [python]: #
 [ruby]: #
 [react]: #

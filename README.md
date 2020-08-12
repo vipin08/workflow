@@ -56,4 +56,4 @@
 [github]: https://github.com/
 [docker]: https://www.docker.com/
 [aws]: https://aws.amazon.com/
-[tensorflow] : https://www.tensorflow.org/
+[tensorflow]: https://www.tensorflow.org/
